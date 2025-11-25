@@ -1,4 +1,4 @@
-# Interception plugin for vimproved input
+# (fork of) Interception plugin for vimproved input
 
 ~My hideous~ Humble, performant key remapping C++ code that should work on Linux for any input device that emits keys.
 

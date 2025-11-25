@@ -6,3 +6,9 @@
 !meson.build
 !config.yaml
 !interception-vimproved.cpp
+!Dockerfile
+!Containerfile
+!.github
+!.github/workflows
+!.github/workflows/build.yml
+!.github/pull.yml
